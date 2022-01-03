@@ -1,0 +1,9 @@
+.link-card{
+    background-image: linear-gradient(to right,#0162c8,#55e7fc) !important;
+}
+
+.link-card:hover{
+    box-shadow: 10px 10px 27px -5px rgba(0,0,0,0.66);
+-webkit-box-shadow: 10px 10px 27px -5px rgba(0,0,0,0.66);
+-moz-box-shadow: 10px 10px 27px -5px rgba(0,0,0,0.66);
+}
