@@ -42,7 +42,7 @@ const SocialLink = () => {
           <Col>
                 <a href='#' className='text-decoration-none'>
                 <Card className='rounded-pill link-card d-felx flex-row justify-content-center align-items-center p-2'>
-              <Card.Img variant="left" src="https://i.ibb.co/Zf9jSsk/142785-middle-removebg-preview.png" width={40} />
+              <Card.Img variant="left" src="https://i.ibb.co/Zf9jSsk/142785-middle-removebg-preview.png" width={50} />
               
             <Card.Title className='m-0 ps-1 text-light'>Twitter</Card.Title>
               
