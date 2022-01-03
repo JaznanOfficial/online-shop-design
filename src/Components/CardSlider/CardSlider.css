@@ -4,12 +4,12 @@
     background-image: linear-gradient(to right,#0162c8,#55e7fc) !important;
 }
 .product-card{
-    width: 70% !important;
+    width: 90% !important;
     box-shadow: rgb(255, 255, 255) 5px 5px 15px;
     height: 200px;
 }
 .card-slider img{
-    width: 20% !important;
+    width: 15% !important;
     margin: 10px auto;
     border-radius: 50%;
 }
