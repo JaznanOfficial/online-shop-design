@@ -1,0 +1,23 @@
+.header{
+    background-image: linear-gradient(to right, #47E2DD, #57A2C8);
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+.header-img{
+    border-radius: 60px
+}
+
+.shop-name{
+    color: tomato;
+}
+
+
+
+/* responsiveness */
+@media only screen and (max-width: 600px){
+    .header-img{
+        width: 125px;
+        height: 125px;
+        margin-top: 20px;
+    }
+}
