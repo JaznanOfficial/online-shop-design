@@ -7,6 +7,7 @@
     width: 90% !important;
     box-shadow: rgb(255, 255, 255) 5px 5px 15px;
     height: 200px;
+    padding: 30px;
 }
 .card-slider img{
     width: 15% !important;
@@ -15,4 +16,27 @@
 }
 .card-bottom{
     justify-content: space-around;
+}
+
+
+
+/* responsiveness */
+@media only screen and (max-width: 600px){
+    
+    .card-slider img{
+        width: 30% !important;
+        margin: 5px auto;
+        border-radius: 50%;
+    }
+    .card-bottom{
+        
+        flex-direction: column !important;
+        justify-content: space-between !important;
+    }
+    .product-card{
+        width: 90% !important;
+        box-shadow: rgb(255, 255, 255) 5px 5px 15px;
+        height: 200px;
+        padding: 0px;
+    }
 }
