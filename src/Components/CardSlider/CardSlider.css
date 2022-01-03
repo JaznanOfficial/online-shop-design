@@ -1,0 +1,18 @@
+.card-slider{
+    width: 100%;
+    /* box-shadow: gray 5px 5px 15px; */
+    background-image: linear-gradient(to right,#0162c8,#55e7fc) !important;
+}
+.product-card{
+    width: 70% !important;
+    box-shadow: rgb(255, 255, 255) 5px 5px 15px;
+    height: 200px;
+}
+.card-slider img{
+    width: 20% !important;
+    margin: 10px auto;
+    border-radius: 50%;
+}
+.card-bottom{
+    justify-content: space-around;
+}

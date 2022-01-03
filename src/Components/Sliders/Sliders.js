@@ -1,5 +1,5 @@
 import React from 'react';
-import { Carousel } from 'react-bootstrap';
+import { Card, Carousel, Row } from 'react-bootstrap';
 
 const Sliders = () => {
     return (
@@ -40,6 +40,7 @@ const Sliders = () => {
             <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
           </Carousel.Caption>
         </Carousel.Item>
+        
       </Carousel>
         </div>
     );
